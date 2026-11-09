@@ -13,6 +13,7 @@
 | [lesson_6](https://github.com/Resolushh/Hardware-architecture/tree/lesson_6) | Путь работы виртуальной памяти |
 | [lesson_7](https://github.com/Resolushh/Hardware-architecture/tree/lesson_7) | Накопители HDD и SSD, оперативная память |
 | [lesson_8](https://github.com/Resolushh/Hardware-architecture/tree/lesson_8) | Сборка и диагностика ПК |
+| [lesson_9](https://github.com/Resolushh/Hardware-architecture/tree/lesson_9) | Устройство видеокарты |
 | [practise_work](https://github.com/Resolushh/Hardware-architecture/tree/practise_work) | Самостоятельная работа по архитектуре аппаратных средств |
 
 ## Просмотр работы
