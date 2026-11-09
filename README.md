@@ -1,26 +1,24 @@
-# Архитектура аппаратных средств
+# Занятие 9. Устройство видеокарты
 
-В репозитории собраны учебные задания, схемы и конспекты по устройству компьютера. Каждая работа находится в отдельной ветке. В её README описаны тема и материалы занятия.
+В ветке выполнена домашняя работа об устройстве видеокарты, работе GPU и видеопамяти.
 
-## Навигация по веткам
+## Материалы
 
-| Ветка | Тема |
-|---|---|
-| [lesson_1](https://github.com/Resolushh/Hardware-architecture/tree/lesson_1) | Устройство персонального компьютера |
-| [lesson_2](https://github.com/Resolushh/Hardware-architecture/tree/lesson_2) | Логические операции и таблицы истинности |
-| [lesson_3](https://github.com/Resolushh/Hardware-architecture/tree/lesson_3) | Построение логических схем |
-| [lesson_4](https://github.com/Resolushh/Hardware-architecture/tree/lesson_4) | Устройство и работа процессора |
-| [lesson_6](https://github.com/Resolushh/Hardware-architecture/tree/lesson_6) | Путь работы виртуальной памяти |
-| [lesson_7](https://github.com/Resolushh/Hardware-architecture/tree/lesson_7) | Накопители HDD и SSD, оперативная память |
-| [lesson_8](https://github.com/Resolushh/Hardware-architecture/tree/lesson_8) | Сборка и диагностика ПК |
-| [practise_work](https://github.com/Resolushh/Hardware-architecture/tree/practise_work) | Самостоятельная работа по архитектуре аппаратных средств |
+* [homework.md](homework.md) содержит ответы на вопросы, схему видеокарты и практическую часть на примере RTX 3060 Ti.
 
-## Просмотр работы
+## Основные темы
 
-Выберите нужную ветку на GitHub или переключитесь на неё локально:
+* Основные блоки видеокарты и их назначение.
+* Отличия GPU от CPU, SIMT и варпы.
+* Видеопамять и расчет ее пропускной способности.
+* Питание и охлаждение видеокарты.
+* Подготовка и вывод кадра в игре.
+* Применение GPU в искусственном интеллекте.
 
-```bash
-git switch lesson_6
-```
+## Вывод
 
-Схемы можно посмотреть прямо в README. Конспекты, задания и исходный код доступны по ссылкам в разделе с материалами.
+GPU подходит для задач с большим количеством похожих вычислений. В работе разобрана RTX 3060 Ti с 8 ГБ GDDR6 и рассчитана пропускная способность памяти 448 ГБ/с.
+
+## Навигация
+
+[Все занятия](https://github.com/Resolushh/Hardware-architecture/tree/main)
