@@ -1,27 +1,11 @@
-# Архитектура аппаратных средств
+# Занятие 10. BIOS и UEFI
 
-В репозитории собраны учебные задания, схемы и конспекты по устройству компьютера. Каждая работа находится в отдельной ветке. В её README описаны тема и материалы занятия.
+В работе разобраны настройки UEFI в графическом симуляторе Lenovo ThinkPad.
 
-## Навигация по веткам
+## Материалы
 
-| Ветка | Тема |
-|---|---|
-| [lesson_1](https://github.com/Resolushh/Hardware-architecture/tree/lesson_1) | Устройство персонального компьютера |
-| [lesson_2](https://github.com/Resolushh/Hardware-architecture/tree/lesson_2) | Логические операции и таблицы истинности |
-| [lesson_3](https://github.com/Resolushh/Hardware-architecture/tree/lesson_3) | Построение логических схем |
-| [lesson_4](https://github.com/Resolushh/Hardware-architecture/tree/lesson_4) | Устройство и работа процессора |
-| [lesson_6](https://github.com/Resolushh/Hardware-architecture/tree/lesson_6) | Путь работы виртуальной памяти |
-| [lesson_7](https://github.com/Resolushh/Hardware-architecture/tree/lesson_7) | Накопители HDD и SSD, оперативная память |
-| [lesson_8](https://github.com/Resolushh/Hardware-architecture/tree/lesson_8) | Сборка и диагностика ПК |
-| [lesson_9](https://github.com/Resolushh/Hardware-architecture/tree/lesson_9) | Устройство видеокарты |
-| [practise_work](https://github.com/Resolushh/Hardware-architecture/tree/practise_work) | Самостоятельная работа по архитектуре аппаратных средств |
+* [homework.md](homework.md) содержит отчет по десяти заданиям со скриншотами.
 
-## Просмотр работы
+## Навигация
 
-Выберите нужную ветку на GitHub или переключитесь на неё локально:
-
-```bash
-git switch lesson_6
-```
-
-Схемы можно посмотреть прямо в README. Конспекты, задания и исходный код доступны по ссылкам в разделе с материалами.
+[Все занятия](https://github.com/Resolushh/Hardware-architecture/tree/main)
